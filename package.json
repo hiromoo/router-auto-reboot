@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^10.0.0",
+    "node-wifi": "^2.0.16",
     "puppeteer": "^11.0.0"
   }
 }
